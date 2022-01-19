@@ -1,0 +1,20 @@
+Package: ProjetoOldFaithful
+Type: Package
+Title: Histograma do tempo de espera de erupção do Géiser Old Faithful
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Este histograma tem como objetivo ajudar a analisar a probabilidade
+(frequência) de erupção de um dos maiores gêisers do mundo, o Old Faithful.
+Ao entender a probabilidade de ocorrar a erupção de acordo com o tempo de
+espera, é possível estimar quando será a próxima erupção, dado que ajuda
+os visitantes do local.
+O tempo médio estimado entre erupções é de 72,31 minutos, mas o intervalo
+entre elas pode variar entre 43 e 108 minutos.
+Informações obtidas de:
+<https://rstudio-pubs-static.s3.amazonaws.com/377416_b7b768df75504a30a541d8cf654e8dc1.html>
+<https://www.stat.cmu.edu/~larry/all-of-statistics/=data/faithful.dat>
+Projeto em R retirado de <https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/>More about what it does (maybe more than one line)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
